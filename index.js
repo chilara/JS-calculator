@@ -19,3 +19,6 @@ else if(opr == "/")
 {
     alert(Number(num1) / Number(num2))
 } 
+else {
+    alert("invalid operator")
+}
